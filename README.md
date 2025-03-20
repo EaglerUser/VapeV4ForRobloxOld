@@ -8,7 +8,7 @@
 <h2 align="center">
   A Roblox script built from the ground up for your precise needs!
   <br/>
-  Rise up to the top while remaining completely untouchable.
+  Rise up to the top while remaining completely untouchable. (works on Solara and executors similar)
 </h2>
 
 ## Contacts
@@ -20,7 +20,7 @@
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EaglerUser/VapeV4ForRobloxOld/main/NewMainScript.lua", true))()
 ```
 
 ## Possible Issues
